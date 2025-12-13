@@ -1,4 +1,4 @@
-# codetest
+# codetest cheklist
 Desarrollo para test en Git
 [ ] 1. Nombre del proyecto
 [ ] 2. Descripción breve
